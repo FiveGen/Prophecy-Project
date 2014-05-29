@@ -1,0 +1,19 @@
+#FILTER TERMS
+LOL = ['leagueoflegend', 'Leagueoflegend', 'LeagueofLegend', 'LeagueOfLegend', 'LEAGUEOFLEGEND', 'league of legend', 'League of legend', 'League of Legend', 'League Of Legend']
+HON = ['honupdate', 'Honupdate', 'HoNupdate', 'HONupdate', 'HONUPDATES', 'heroesofnewerth', 'Heroesofnewerth', 'HeroesofNewerth', 'HeroesOfNewerth', 'HEROESOFNEWERTH', 'heroes of newerth', 'Heroes of newerth', 'Heroes of Newerth', 'Heroes Of Newerth', 'HEROES OF NEWERTH']
+DO2 = ['dota2', 'Dota2', 'DotA2', 'DOTA2', 'dota 2', 'Dota 2', 'DotA 2', 'DOTA 2', 'dota2update', 'Dota2update', 'DotA2update', 'DOTA2update', 'DOTA2UPDATE']    
+
+GW2 = ['guildwars2', 'Guildwars2', 'GuildWars2', 'GUILDWARS2', 'guild wars 2', 'Guild wars 2', 'Guild Wars 2', 'GUILD WARS 2', 'gw2', 'Gw2', 'GW2']
+XIV = ['ffxiv', 'Ffxiv', 'FFxiv', 'ffXIV', 'FFXIV', 'ff xiv', 'FF XIV', 'finalfantasyxiv' ,'Finalfantasyxiv', 'FinalFantasyxiv', 'FinalFantasyXIV', 'FINALFANTASYXIV', 'final fantasy xiv', 'Final fantasy xiv', 'Final Fantasy xiv', 'Final Fantasy XIV', 'FINAL FANTASY XIV', 'ff_xiv', 'FF_XIV']
+WOW = ['worldofwarcraft', 'Worldofwarcraft', 'WorldofWarcraft', 'WorldOfWarcraft', 'WORLDOFWARCRAFT', 'world of warcraft', 'World of warcraft', 'World of Warcraft', 'World Of Warcraft', 'WORLD OF WARCRAFT']
+
+ESO = ['tesonline', 'Tesonline', 'TESonline', 'TESOnline', 'TESONLINE', '#eso', '#Eso', '#ESO', 'elderscrollsonline', 'Elderscrollsonline', 'ElderScrollsonline', 'ElderScrollsOnline', 'ELDERSCROLLSONLINE', 'elder scrolls online', 'Elder scrolls online', 'Elder Scrolls online', 'Elder Scrolls Online', 'ELDER SCROLLS ONLINE']
+EQN = ['everquest_next', 'Everquest_next', 'EverQuest_next', 'EverQuest_Next', 'EVERQUEST_NEXT', 'eqnext', 'Eqnext', 'EQnext', 'EQNext', 'EQNEXT', 'everquestnext', 'Everquestnext', 'EverQuestnext', 'EverQuestNext', 'EVERQUESTNEXT', 'everquest next', 'Everquest next', 'EverQuest next', 'EverQuest Next', 'EVERQUEST NEXT', 'eqn', 'Eqn', 'EQN']
+WIS = ['wildstar', 'Wildstar', 'WildStar', 'WILDSTAR']
+
+
+
+
+#STREAM TERMS
+twitterStream.filter(track=["league of legends", "leagueoflegends", "heroes of newerth", "heroesofnewerth", "honupdates", "dota2", "dota 2", "dota2update", "defense of the ancients 2", "guild wars 2", "guildwars2", "gw2", "final fantasy xiv", "finalfantasyxiv", "ffxiv", "ff xiv", "ff_xiv", "worldofwarcraft", "world of warcraft", "tesonline", "#eso", "elderscrollsonline", "elder scrolls online", "everquest_next", "eqnext", "everquestnext", "everquest next", "eqn", "wildstar", "wildstaronline"])
+

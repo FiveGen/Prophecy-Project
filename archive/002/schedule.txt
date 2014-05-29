@@ -1,0 +1,16 @@
+
+FILE / SCHEULED TIME(S)
+ facebook - xlsx output.py	|  Starts 00+06+12+18:01
+ reddit - xlsx output.py	|  Starts 00+06+12+18:03
+ twitter - killstream.bat	|  Starts XX:58 + XX:29
+ twitter - streamcap.py 	|  Starts XX:00 + XX:30
+ twitter - xlsx output.py 	|  Starts XX:59
+
+
+   TIME | DATE | STEP		
+12:01AM | 1st  | -4
+ 6:01AM | 1st  | -3
+12:01PM | 1st  | -2
+ 6:01PM | 1st  | -1
+12:01AM | 2nd  |  1
+
